@@ -60,3 +60,4 @@ pip install -r requirements.txt
 ### Run streamlit app
 
 streamlit run dashboard.py
+https://beijing-aq-dlstr9.streamlit.app/  
